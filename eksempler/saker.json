@@ -1,0 +1,18 @@
+[
+  {"id": "101", "avsender": "kari@firma.example", "emne": "Skriveren på 2. etasje",
+   "tekst": "Hei! Skriveren ved kjøkkenet skriver ikke ut. Ikke viktig, men når du har tid. Hilsen Kari"},
+  {"id": "102", "avsender": "ole@firma.example", "emne": "Låst ute av kontoen",
+   "tekst": "Jeg er låst ute etter å ha skrevet feil passord flere ganger og kan ikke jobbe. Kunde venter på et tilbud fra meg. Ring meg på 912 34 567."},
+  {"id": "103", "avsender": "mia@firma.example", "emne": "Klikket på lenke i e-post fra «DNB»",
+   "tekst": "Jeg fikk en e-post om at kontoen min ble stengt og klikket på lenken. Jeg skrev inn passordet før jeg skjønte at noe var galt. Hva gjør jeg nå?"},
+  {"id": "104", "avsender": "per@firma.example", "emne": "Ingen får åpnet filer på fellesdisken!",
+   "tekst": "Alle filene på fellesdisken heter .locked og det ligger en tekstfil som krever løsepenge i bitcoin. Hele kontoret er berørt."},
+  {"id": "105", "avsender": "lise@firma.example", "emne": "VPN hjemmefra",
+   "tekst": "VPN kobler ikke til når jeg jobber hjemme. Internett ellers virker fint."},
+  {"id": "106", "avsender": "jonas@firma.example", "emne": "Tilgang til økonomimappa",
+   "tekst": "Kan jeg få tilgang til SharePoint-mappa Økonomi 2026? Fødselsnummeret mitt er 01019912345 hvis dere trenger det."},
+  {"id": "107", "avsender": "nora@firma.example", "emne": "Excel krasjer",
+   "tekst": "Excel lukker seg hver gang jeg åpner en stor fil. Jeg har møte om en time og trenger tallene. Passordet mitt er Sommer2026! hvis dere må logge inn."},
+  {"id": "108", "avsender": "anders@firma.example", "emne": "Forslag",
+   "tekst": "Lurer på om vi kan få en ekstra skjerm til møterommet? Bare et forslag."}
+]
